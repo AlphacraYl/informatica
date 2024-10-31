@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>80FFFF</corfondo>
+        <corbanda>319A25</corbanda>
+        <cornavega>ffffff</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Informatica desde cero</titulo>
+        <autor>anderson cerchar</autor>
+        <logo>tu.jpg</logo>
+        <informe>0</informe>
+        <botonson>0</botonson>
+        <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="" modo="1" >¡Bien hecho!</correcto>
+        <incorrecto son="" modo="1" >¡Vuelve a intentarlo!</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>16</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>Mira el video.</cabeceira>
+              <externa><![CDATA[&lt;iframe width=&quot;935&quot; height=&quot;526&quot; src=&quot;https://www.youtube.com/embed/Ec94TvQSTcw&quot; title=&quot;INFORMÁTICA DESDE CERO.  COMPUTACIÓN BÁSICA para niños y principiantes Cómo piensa un ordenador 🖥🤔&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;/iframe&gt;]]></externa>
+        </paxina>
+        <paxina id="2" >
+              <tipo>16</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>Mira el video.</cabeceira>
+              <externa><![CDATA[&lt;iframe width=&quot;935&quot; height=&quot;526&quot; src=&quot;https://www.youtube.com/embed/m3wNTex84R8&quot; title=&quot;QUÉ SON LOS PERIFÉRICOS. CURSO DE INFORMÁTICA DESDE CERO. Computación básica para niños  🖥&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;/iframe&gt;]]></externa>
+        </paxina>
+        <paxina id="3" >
+              <tipo>39</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>¡Une las parejas!</cabeceira>
+              <modo>1</modo>
+            <parellas imaxe="audifonos.jpg" texto="">audifonos.jpg</parellas>
+              <parellas imaxe="CPU.jpg" texto="">CPU.jpg</parellas>
+              <parellas imaxe="pantalla.jpg" texto="">pantalla.jpg</parellas>
+              <parellas imaxe="camara.jpg" texto="">camara.jpg</parellas>
+              <parellas imaxe="raton.jpg" texto="">raton.jpg</parellas>
+              <parellas imaxe="teclado.jpg" texto="">teclado.jpg</parellas>
+              <cfondo>00FFFF</cfondo>
+              <ctapa>804040</ctapa>
+              <tempo>120</tempo>
+        </paxina>
+        <paxina id="4" >
+              <tipo>4</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>Busca palabras en la sopa de letras.</cabeceira>
+              <pe>¡Selecciona la primera letra y luego la ultima letra de la palabra!</pe>
+              <modo>2</modo>
+              <sopa enun="audifonos.jpg">audifonos</sopa>
+              <sopa enun="camara.jpg">camara</sopa>
+              <sopa enun="CPU.jpg">cpu</sopa>
+              <sopa enun="pantalla.jpg">monitor</sopa>
+              <sopa enun="raton.jpg">mouse</sopa>
+              <sopa enun="teclado.jpg">teclado</sopa>
+              <sopa enun="impresora.jpg">impresora</sopa>
+              <sopa enun="memoria.jpg">memoria</sopa>
+              <enunciado>0</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>abcdefghijklmnopqrstuvwxyz</fondo>
+        </paxina>
+        <paxina id="5" >
+              <tipo>3</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>¡Armemos el romprecabezas!</cabeceira>
+              <imaxe>original.jpg</imaxe>
+              <imfondo  trans="10">original.jpg</imfondo>
+              <filas>5</filas>
+              <columnas>5</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="6" >
+              <tipo>11</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>encaja la palabra en el recuadro.</cabeceira>
+              <modo>3</modo>
+              <cousa nome="Audifonos ">audifonos.jpg</cousa>
+              <cousa nome="Camara">camara.jpg</cousa>
+              <cousa nome="CPU">CPU.jpg</cousa>
+              <cousa nome="Pantalla">pantalla.jpg</cousa>
+              <cousa nome="Mouse ">raton.jpg</cousa>
+        </paxina>
+        <paxina id="7" >
+              <tipo>1</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>Responde la siguiente pregunta.</cabeceira>
+              <imaxe>impresora.jpg</imaxe>
+              <texto>¿ cual es el nombre de este periferico ?</texto>
+              <resp texto="" valor="1">impresora</resp>
+              <resp texto="" valor="0">monitor</resp>
+              <resp texto="" valor="0">teclado</resp>
+              <resp texto="" valor="0">audifono</resp>
+        </paxina>
+        <paxina id="8" >
+              <tipo>51</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>Busca la imagen de la parte superior izquierda de los recuadros.</cabeceira>
+              <pe>¡Clic sostenido en la imagen para identificar donde se encuentra!</pe>
+              <valor>10</valor>
+              <peza imaxe="audifonos.jpg">1</peza>
+              <peza imaxe="camara.jpg">2</peza>
+              <forma>1</forma>
+              <modo>1</modo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>19</tipo>
+            <nonpasar atras="1" >0</nonpasar>
+              <cabeceira>Selecciona las letras para formar la palabra de la imagen.</cabeceira>
+              <imaxe>memoria.jpg</imaxe>
+              <texto><![CDATA[]]></texto>
+              <resp texto="abcdefghijklmnopqrstuvwxyz">memoria</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+    </libro>
+</lim>
